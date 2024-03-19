@@ -1,0 +1,24 @@
+body{
+    background: url("backimg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.main{
+    border:0.5px solid white;
+    width:500px;
+    height:400px;
+    text-align: center;
+    margin: auto;
+    margin-top: 20%;
+    background:none;
+}
+
+#n1{
+    margin-top: 50px;
+}
+#n2{
+    margin-top: 40px;
+}
+#btn1{
+    margin-bottom: 20px;
+}
